@@ -1,0 +1,2 @@
+rootProject.name='CollepsingToolBar'
+include ':app'
